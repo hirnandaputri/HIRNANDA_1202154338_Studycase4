@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kem.example.com.hirnandaputri_1202154338_studycase4.MainActivity">
+
+    <Button
+        android:id="@+id/buttonnama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="list nama mahasiswa"
+        android:onClick="pindah"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="145dp" />
+
+    <Button
+        android:id="@+id/buttongambar"
+        android:layout_width="wrap_content"
+        android:layout_height="51dp"
+        android:text="cari gambar"
+        android:onClick="pindah"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="254dp" />
+
+</LinearLayout>

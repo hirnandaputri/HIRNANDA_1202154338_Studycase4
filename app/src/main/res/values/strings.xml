@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HIRNANDAPUTRI_1202154338_STUDYCASE4</string>
+    <string-array name="mahasiswa">
+        <item>kem</item>
+        <item>zombie</item>
+        <item>awkarin</item>
+        <item>anya</item>
+        <item>sarah gibson</item>
+        <item>laura</item>
+        <item>purnama</item>
+        <item>matahari</item>
+        <item>niko</item>
+        <item>nanas</item>
+        <item>jeni</item>
+
+    </string-array>
+</resources>
